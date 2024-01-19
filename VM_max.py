@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt 
 import os
-os.chdir('D:\Year 1 - Fall\CIV102\Code')
 import bridge_calc
 
 L = 1200
