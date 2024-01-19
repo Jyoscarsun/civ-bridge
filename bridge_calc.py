@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import os
 import copy
 import math
-os.chdir('D:\Year 1 - Fall\CIV102\Code')
 
 
 # MUST CHANGE THE FOLLOWING VARIABLES
